@@ -1,1 +1,8 @@
-background-color:white;
+.btn-primary:active,
+.btn-primary:active:focus,
+.btn-primary:active:hover,
+.btn-primary:focus,
+.btn-primary:hover {
+	background-color: blue;
+	border-color: blue;
+}
