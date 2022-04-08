@@ -48,7 +48,8 @@ on passe la taille à 16px
 #cart h5,
 .mheader h3,
 .restaurant_selection #resto h2 {
-    color: black;
+    color: #253551;
+    font-family:Oswald;
 }
 
 /* 
