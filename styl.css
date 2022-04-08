@@ -19,7 +19,7 @@ Modification de la couleur du texte des liens et des boutons "prix" sur la carte
 
 a,
 .items_list li .price {
-    color: #c9b78f;
+    color: #f3eec4;
 }
 
 /*
@@ -74,8 +74,8 @@ on passe la taille à 16px
 .btn-primary[disabled]:focus,
 .btn-primary.disabled:active,
 .btn-primary[disabled]:active {
-    background-color: #fce5b3;
-    border-color: #fce5b3;
+    background-color: #f3eec4;
+    border-color: #f3eec4;
     font-size: 16px;
 }
 
@@ -88,8 +88,8 @@ on passe la taille à 16px
 .btn-primary:active:hover,
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #c9b78f;
-    border-color: #c9b78f;
+    background-color: #f3eec4;
+    border-color: #f3eec4;
     font-size: 16px;
 }
 
@@ -100,7 +100,7 @@ on passe la taille à 16px
 #cart a,
 #cart a:focus,
 #cart a:hover {
-    color: #c9b78f;
+    color: #f3eec4;
 }
 
 /*
@@ -120,7 +120,7 @@ on passe la taille à 16px
 .tag_list .active a.nobg .lab,
 #zmodal .part h4,
 #zmodal .optionbox h4 {
-    background-color: #c9b78f;
+    background-color: #f3eec4;
 }
 
 /* 
