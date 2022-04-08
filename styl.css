@@ -1,8 +1,7 @@
-.btn-primary:active,
-.btn-primary:active:focus,
-.btn-primary:active:hover,
-.btn-primary:focus,
-.btn-primary:hover {
-	background-color: blue;
-	border-color: blue;
+#zwgth h1,
+#address_conf h2,
+#cart h5,
+.mheader h3,
+.restaurant_selection #resto h2 {
+	color:blue;
 }
