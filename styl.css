@@ -80,8 +80,8 @@ on passe la taille à 16px
 .btn-primary[disabled]:focus,
 .btn-primary.disabled:active,
 .btn-primary[disabled]:active {
-    background-color: #fce5b3;
-    border-color: #fce5b3;
+    background-color: #253451;
+    border-color: #253451;
     font-size: 16px;
 }
 
@@ -94,8 +94,8 @@ on passe la taille à 16px
 .btn-primary:active:hover,
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #fce5b3;
-    border-color: #fce5b3;
+    background-color: #253451;
+    border-color: #253451;
     font-size: 16px;
 }
 
@@ -106,7 +106,7 @@ on passe la taille à 16px
 #cart a,
 #cart a:focus,
 #cart a:hover {
-    color: #fce5b3;
+    color: #253451;
 }
 
 /*
@@ -126,7 +126,7 @@ on passe la taille à 16px
 .tag_list .active a.nobg .lab,
 #zmodal .part h4,
 #zmodal .optionbox h4 {
-    background-color: #fce5b3;
+    background-color: #253451;
 }
 
 /* 
