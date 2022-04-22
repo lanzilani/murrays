@@ -140,7 +140,7 @@ Modifie juste la taille de police du nom du restaurant
 .restaurant_selection .restaurants a {
     font-size: 16px;
     font-style: normal;
-    color: white;
+    color: #253551;
 }
 .tag_list .active a.nobg .lab, .tag_list a:hover.nobg .lab
 {
