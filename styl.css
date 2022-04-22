@@ -107,9 +107,14 @@ on passe la taille à 16px
   */
 
 #cart a,
-#cart a:focus,
-#cart a:hover {
+{
     color: #253451;
+}
+
+#cart a:focus,
+#cart a:hover 
+{
+    color:white;
 }
 
 /*
@@ -166,11 +171,4 @@ Modifie juste la taille de police de l'adresse du restaurant
     color: #253551;
 }
 
-/*couleur du bouton valider la commande*/
-#cart .next{
-    color:white;
-}
 
-#cart .next:hover, #cart .next: active, #cart .next:focus{
-    color:white;
-}
