@@ -148,7 +148,7 @@ Modifie juste la taille de police du nom du restaurant
     color:white;
 }
 
-.tag_list a, {
+.tag_list a, .items_list li .price {
     color:#253451;
 }
 
