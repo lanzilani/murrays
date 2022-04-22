@@ -36,13 +36,13 @@ on passe la taille à 16px
 
 .items_list li a,
 .items_list li .name {
-    color: black;
+    color: #253451;
     font-size: 1.4em;
 }
 
 .items_list li .description {
-    color: black;
-    font-size: 12px;
+    color: #253451;
+    font-size: 14px;
 }
 
 /*
