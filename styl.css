@@ -149,7 +149,7 @@ Modifie juste la taille de police du nom du restaurant
     background-color: #253451;
     color:white;
 }
-
+/*couleur des articles et prix*/
 .tag_list a, .items_list li .price {
     color:#253451;
 }
@@ -164,4 +164,13 @@ Modifie juste la taille de police de l'adresse du restaurant
     font-size: 15px;
     font-style: normal;
     color: #253551;
+}
+
+/*couleur du bouton valider la commande*/
+#cart .next{
+    color:white;
+}
+
+#cart .next:hover, #cart .next: active, #cart .next:focus{
+    color:white;
 }
