@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&family=Oswald:wght@300&family=Water+Brush&display=swap');
+
 
 body{
     background-color: white ;
-     font-family: 'Water Brush', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 
@@ -29,6 +29,7 @@ Modification de la couleur du texte des liens et des boutons "prix" sur la carte
 a,
 .items_list li .price {
     color: #253451;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -41,11 +42,13 @@ on passe la taille à 16px
 .items_list li .name {
     color: #253451;
     font-size: 1.2em;
+    font-family: 'Oswald', sans-serif;
 }
 
 .items_list li .description {
     color: #253451;
     font-size: 14px;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -58,7 +61,7 @@ on passe la taille à 16px
 .mheader h3,
 .restaurant_selection #resto h2 {
     color: #253551;
-    font-family:Oswald;
+    font-family: 'Oswald', sans-serif;
 }
 
 /* 
@@ -68,6 +71,7 @@ on passe la taille à 16px
   */
 #zwgth h1 {
     font-size: 40px;
+     
 }
 
 /*
@@ -88,6 +92,7 @@ on passe la taille à 16px
     border-color: #253451;
     font-size: 16px;
     color: white;
+     font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -103,6 +108,7 @@ on passe la taille à 16px
     border-color: #253451;
     font-size: 16px;
     color:white;
+     font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -112,12 +118,14 @@ on passe la taille à 16px
 #cart a,
 {
     color: #253451;
+     font-family: 'Oswald', sans-serif;
 }
 
 #cart a:focus,
 #cart a:hover 
 {
     color:white;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*
