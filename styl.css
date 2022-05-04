@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&family=Oswald:wght@300&family=Water+Brush&display=swap');
 
 body{
     background-color: white ;
-     font-family: 'Oswald', sans-serif;
+     font-family: 'Water Brush', cursive;
 }
 
 
