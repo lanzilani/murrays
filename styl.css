@@ -144,9 +144,12 @@ on passe la taille à 16px
 .tag_list a.nobg:hover .lab,
 .tag_list .active a.nobg .lab,
 #zmodal .part h4,
-#zmodal .optionbox h4 {
+#zmodal .optionbox h4,
+.form-control,
+button, input, select, textarea {
     background-color: inherit;
     color: #253551;
+    font-family: 'Press Start 2P', cursive;
 }
 
 /* 
