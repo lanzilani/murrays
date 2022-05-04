@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
 
 
 body{
     background-color: white ;
-   font-family: 'Press Start 2P', cursive;
+   font-family: 'Oswald', sans-serif;
 }
 
 
@@ -29,7 +29,7 @@ Modification de la couleur du texte des liens et des boutons "prix" sur la carte
 a,
 .items_list li .price {
     color: #253451;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -42,13 +42,13 @@ on passe la taille à 16px
 .items_list li .name {
     color: #253451;
     font-size: 1.2em;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 .items_list li .description {
     color: #253451;
     font-size: 14px;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -61,7 +61,7 @@ on passe la taille à 16px
 .mheader h3,
 .restaurant_selection #resto h2 {
     color: #253551;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 /* 
@@ -92,7 +92,7 @@ on passe la taille à 16px
     border-color: #253451;
     font-size: 16px;
     color: white;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -108,7 +108,7 @@ on passe la taille à 16px
     border-color: #253451;
     font-size: 16px;
     color:white;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -118,14 +118,14 @@ on passe la taille à 16px
 #cart a,
 {
     color: #253451;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 #cart a:focus,
 #cart a:hover 
 {
     color:white;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 /*
@@ -149,7 +149,7 @@ on passe la taille à 16px
 button, input, select, textarea {
     background-color: inherit;
     color: #253551;
-    font-family: 'Press Start 2P', cursive;
+    font-family: 'Oswald', sans-serif;
 }
 
 /* 
