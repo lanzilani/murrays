@@ -19,11 +19,11 @@ Pour supprimer le logo
 Pour supprimer le titre h1 "VOTRE RESTAURANT"
 */
 #zwgth h1 {
-    display:none;
-    
+   
+    visibility:hidden;
 }
  
-#zwgth h1
+
 
 /*
 Modification de la couleur du texte des liens et des boutons "prix" sur la carte
