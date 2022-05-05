@@ -19,7 +19,7 @@ Pour supprimer le logo
 Pour supprimer le titre h1 "VOTRE RESTAURANT"
 */
 #zwgth h1 {
-   
+    display:none;
     visibility:hidden;
 }
  
