@@ -6,6 +6,12 @@ body{
    font-family: 'Oswald', sans-serif;
 }
 
+/*Pour isoler le bouton retour et ne pas avoir un menu décalé*/
+#zwgth .back{
+    margin-bottom: 3vh;
+    float: none;
+}
+
 
 /* 
 Pour supprimer le logo
